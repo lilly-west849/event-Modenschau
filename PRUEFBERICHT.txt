@@ -9,3 +9,5 @@ tickets.html: 313 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten un
 Impressum-Platzhalter entfernt, Kontrast und mobile CSS-Regeln nachgebessert.
 Chromium gestartet, Navigation zu lokalen Dateien durch ERR_BLOCKED_BY_ADMINISTRATOR blockiert. W3C, Lighthouse, echte Netzwerk-/Konsole-, Tastatur-, Druck- und 375px-Tests nicht bestätigt.
 Freitextsuche: Vorschlagslinks navigieren, Absenden führt zur 404. Keine echte Buchung. JSON-LD ist nicht ausführbarer Datenblock. OG-Bild bei Veröffentlichung mit öffentlicher URL versehen.
+V67: Anfahrt mit fiktivem Veranstaltungsort nahe Alexanderplatz, absolute OG-Bildadresse, Event-JSON-LD aktualisiert, mobile CSS-Sicherungen. Lokale Links und Anker: []
+Live-Zugriff und Chromium-Test nicht erfolgreich; W3C, Lighthouse, Konsole, Kontrast und mobile Darstellung weiterhin praktisch zu pruefen.

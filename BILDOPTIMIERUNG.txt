@@ -1,0 +1,4 @@
+V63 image optimization
+22 photos; original pixel dimensions retained.
+Before: 6223452 bytes; after: 2918710 bytes; reduction: 53.1%.
+JPEG and WebP retained. PNG, GIF, SVG unchanged. All 22 photo references checked, unique and local. No browser performance or visual comparison performed.

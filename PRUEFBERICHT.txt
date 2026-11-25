@@ -1,0 +1,11 @@
+RUNWAY COLLECTIVE V65
+404.html: 67 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+index.html: 275 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+infos.html: 571 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+programm.html: 221 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+story.html: 234 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+tickets.html: 313 Wörter im Hauptinhalt; lokale Verweise, IDs, H1, Metadaten und Bildattribute geprüft.
+22 eindeutige Fotopfade; alle Rasterbilder <= 300000 Bytes und <= 2000 px breit.
+Impressum-Platzhalter entfernt, Kontrast und mobile CSS-Regeln nachgebessert.
+Chromium gestartet, Navigation zu lokalen Dateien durch ERR_BLOCKED_BY_ADMINISTRATOR blockiert. W3C, Lighthouse, echte Netzwerk-/Konsole-, Tastatur-, Druck- und 375px-Tests nicht bestätigt.
+Freitextsuche: Vorschlagslinks navigieren, Absenden führt zur 404. Keine echte Buchung. JSON-LD ist nicht ausführbarer Datenblock. OG-Bild bei Veröffentlichung mit öffentlicher URL versehen.

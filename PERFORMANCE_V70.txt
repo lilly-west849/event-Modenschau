@@ -1,0 +1,1 @@
+Responsive WebP variants: 66. Original photos retained. Eager photos prioritized; regular font preloaded on home. CSS comments/outer whitespace removed and adjacent identical rules deduplicated. Shared CSS retained. GitHub Pages cache headers unchanged. Browser and external validation pending.
